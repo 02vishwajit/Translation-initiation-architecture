@@ -1,0 +1,7 @@
+duplicate_genome_headers	duplicate_protein_headers	gbff_CDS_features	gbff_record_count	genome_GC_percent	genome_max_record_bp	genome_min_record_bp	genome_non_ACGT_characters	genome_records	genome_total_bp	gff_CDS_features	gff_gene_features	missing_files	protein_internal_stops	protein_invalid_characters	protein_max_aa	protein_min_aa	protein_records	protein_total_aa	strain_id
+0	0	1751	1	46.328	2056363	2056363	0	1	2056363	1751	1797		0	0	2984	35	1734	587403	ZM4
+0	0	4023	3	65.113	3561584	184462	0	3	4233314	4027	4074		0	0	3069	24	3988	1284357	NOVO
+0	0	4406	7	68.791	3188524	37100	0	7	4602977	4406	4388		0	0	3634	26	4321	1331673	RSP
+0	0	1900	4	46.644	2124771	4551	0	4	2223520	1901	1939		0	0	3088	35	1876	630674	ZM_NCIMB11163
+0	0	2817	2	35.04	2726530	110881	0	2	2837411	2818	2869		0	0	2866	27	2786	836190	TSA_JW_SL_YS485
+0	0	3332	1	38.987	3843301	3843301	0	1	3843301	3351	3332		0	0	6885	30	3186	1036990	CT_ATCC27405

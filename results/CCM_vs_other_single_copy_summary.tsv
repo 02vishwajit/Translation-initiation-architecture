@@ -1,0 +1,13 @@
+species	group	n_orthogroups	motif_positive	motif_positive_percent	mean_GC_percent	overlapping_windows	overlapping_window_percent
+CT_ATCC27405	Four_single_copy_CCM	4	4	100.0	30.0	1	25.0
+CT_ATCC27405	Other_single_copy_orthogroups	344	254	73.837	33.645	120	34.884
+NOVO	Four_single_copy_CCM	4	2	50.0	58.5	1	25.0
+NOVO	Other_single_copy_orthogroups	344	128	37.209	62.285	162	47.093
+RSP	Four_single_copy_CCM	4	2	50.0	60.0	2	50.0
+RSP	Other_single_copy_orthogroups	344	196	56.977	66.82	133	38.663
+TSA_JW_SL_YS485	Four_single_copy_CCM	4	4	100.0	32.5	2	50.0
+TSA_JW_SL_YS485	Other_single_copy_orthogroups	344	263	76.453	31.692	223	64.826
+ZM4	Four_single_copy_CCM	4	3	75.0	36.5	0	0.0
+ZM4	Other_single_copy_orthogroups	344	145	42.151	42.959	142	41.279
+ZM_NCIMB11163	Four_single_copy_CCM	4	3	75.0	36.5	0	0.0
+ZM_NCIMB11163	Other_single_copy_orthogroups	344	146	42.442	42.948	142	41.279

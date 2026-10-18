@@ -1,0 +1,25 @@
+orthogroup	CCM_gene	species	protein_id	locus_tag	product	start_codon	motif_positive	best_candidate_motif	best_candidate_spacer_nt	GC_percent	purine_percent	overlap_flag
+OG0000678	phosphoglycerate kinase	CT_ATCC27405	WP_003517880.1	CTHE_RS00715	phosphoglycerate kinase	ATG	1	GGAG	11	26.0	62.0	False
+OG0000678	phosphoglycerate kinase	NOVO	WP_011445614.1	SARO_RS09860	phosphoglycerate kinase	ATG	1	GAGG	8	60.0	64.0	True
+OG0000678	phosphoglycerate kinase	RSP	WP_011337524.1	RSP_RS05515	phosphoglycerate kinase	ATG	1	AGGAGG	7	62.0	62.0	False
+OG0000678	phosphoglycerate kinase	TSA_JW_SL_YS485	WP_014759315.1	TSAC_RS12645	phosphoglycerate kinase	ATG	1	AGGAGG	6	36.0	56.0	False
+OG0000678	phosphoglycerate kinase	ZM4	WP_011240133.1	ZMO_RS00760	phosphoglycerate kinase	ATG	1	AGGAGG	5	42.0	56.0	False
+OG0000678	phosphoglycerate kinase	ZM_NCIMB11163	WP_011240133.1	ZA10_RS05310	phosphoglycerate kinase	ATG	1	AGGAGG	5	42.0	56.0	False
+OG0000449	triose-phosphate isomerase	CT_ATCC27405	WP_003512174.1	CTHE_RS00720	triose-phosphate isomerase	ATG	1	AGGAG	10	38.0	68.0	True
+OG0000449	triose-phosphate isomerase	NOVO	WP_011445667.1	SARO_RS10155	triose-phosphate isomerase	ATG	0			52.0	60.0	False
+OG0000449	triose-phosphate isomerase	RSP	WP_011337104.1	RSP_RS02715	triose-phosphate isomerase	ATG	1	AGGA	11	54.0	60.0	False
+OG0000449	triose-phosphate isomerase	TSA_JW_SL_YS485	WP_014759314.1	TSAC_RS12640	triose-phosphate isomerase	TTG	1	GAGG	8	38.0	60.0	True
+OG0000449	triose-phosphate isomerase	ZM4	WP_011240372.1	ZMO_RS02000	triose-phosphate isomerase	ATG	1	AGGA	8	34.0	66.0	False
+OG0000449	triose-phosphate isomerase	ZM_NCIMB11163	WP_011240372.1	ZA10_RS04065	triose-phosphate isomerase	ATG	1	AGGA	8	34.0	66.0	False
+OG0000462	glucose-6-phosphate isomerase	CT_ATCC27405	WP_003512317.1	CTHE_RS01130	glucose-6-phosphate isomerase	ATG	1	GGAGG	7	32.0	52.0	False
+OG0000462	glucose-6-phosphate isomerase	NOVO	WP_011445459.1	SARO_RS09055	glucose-6-phosphate isomerase	ATG	0			60.0	66.0	False
+OG0000462	glucose-6-phosphate isomerase	RSP	WP_011337700.1	RSP_RS06745	glucose-6-phosphate isomerase	ATG	0			54.0	54.0	True
+OG0000462	glucose-6-phosphate isomerase	TSA_JW_SL_YS485	WP_014758274.1	TSAC_RS07070	glucose-6-phosphate isomerase	ATG	1	GGAGG	7	22.0	64.0	False
+OG0000462	glucose-6-phosphate isomerase	ZM4	WP_011241031.1	ZMO_RS05445	glucose-6-phosphate isomerase	ATG	1	AGGAG	9	38.0	54.0	False
+OG0000462	glucose-6-phosphate isomerase	ZM_NCIMB11163	WP_011241031.1	ZA10_RS00620	glucose-6-phosphate isomerase	ATG	1	AGGAG	9	38.0	54.0	False
+OG0000450	enolase	CT_ATCC27405	WP_003512177.1	CTHE_RS00740	phosphopyruvate hydratase	ATG	1	GGAG	8	24.0	64.0	False
+OG0000450	enolase	NOVO	WP_011445867.1	SARO_RS11185	phosphopyruvate hydratase	ATG	1	GGAG	6	62.0	44.0	False
+OG0000450	enolase	RSP	WP_002719649.1	RSP_RS05550	phosphopyruvate hydratase	ATG	0			70.0	60.0	True
+OG0000450	enolase	TSA_JW_SL_YS485	WP_014759312.1	TSAC_RS12630	phosphopyruvate hydratase	ATG	1	AGGAG	7	34.0	68.0	True
+OG0000450	enolase	ZM4	WP_011241362.1	ZMO_RS07220	phosphopyruvate hydratase	ATG	0			32.0	60.0	False
+OG0000450	enolase	ZM_NCIMB11163	WP_011241362.1	ZA10_RS08255	phosphopyruvate hydratase	ATG	0			32.0	60.0	False

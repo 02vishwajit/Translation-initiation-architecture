@@ -1,0 +1,241 @@
+Recorded UTC time: Sunday 18 October 2026 07:38:12 PM UTC
+Host: mahe-ThinkStation-P360
+Operating system:
+Linux mahe-ThinkStation-P360 6.5.0-27-generic #28~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 15 10:51:06 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+=== Python ===
+Python 3.12.15
+
+=== Conda environment ===
+/home/vishwajitkumar/miniforge3/lib/python3.14/site-packages/conda/cli/main_export.py:295: CondaExportWarning: The exported environment contains 3rd party Python packages.
+
+Your environment contains 14 packages installed via pip. Conda cannot reliably lock these packages for reproducible environments.
+
+Detected packages:
+  - contourpy==1.4.0
+  - cycler==0.12.1
+  - fonttools==4.67.0
+  - formulaic==1.2.2
+  - interface-meta==2.0.1
+  - kiwisolver==1.5.1
+  - matplotlib==3.11.2
+  - pandas==3.0.6
+  - patsy==1.0.3
+  - pillow==13.0.0
+  - pyparsing==3.3.3
+  - python-dateutil==2.9.0.post0
+  - statsmodels==0.15.0
+  - wrapt==2.5.1
+
+Learn more: https://docs.conda.io/projects/conda/en/stable/user-guide/configuration/pip-interoperability.html
+  warnings.warn(warning, CondaExportWarning)
+name: orthology_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - _openmp_mutex=4.5
+  - _python_abi3_support=1.0
+  - aria2=1.37.0
+  - aster=1.25
+  - backports.zstd=1.8.0
+  - biopython=1.88
+  - blast=2.17.0
+  - bottle=0.13.4
+  - brotli=1.2.0
+  - brotli-bin=1.2.0
+  - brotli-python=1.2.0
+  - bzip2=1.0.8
+  - c-ares=1.34.8
+  - ca-certificates=2026.7.22
+  - certifi=2026.7.22
+  - charset-normalizer=3.5.2
+  - cheroot=11.1.2
+  - cloudpickle=3.1.2
+  - cpython=3.12.15
+  - curl=8.23.0
+  - diamond=2.2.8
+  - entrez-direct=26.0
+  - ete4=4.4.0
+  - famsa=2.4.1
+  - fastme=2.1.6.3
+  - fasttree=2.2.0
+  - gawk=5.4.1
+  - gmp=6.3.0
+  - h2=4.4.1
+  - hpack=4.2.0
+  - htslib=1.24
+  - hyperframe=6.1.0
+  - icu=78.3
+  - idna=3.20
+  - iqtree=3.1.4
+  - jaraco.functools=4.6.0
+  - joblib=1.6.0
+  - keyutils=1.6.3
+  - krb5=1.22.2
+  - ld_impl_linux-64=2.46.1
+  - libasprintf=0.25.1
+  - libblas=3.11.0
+  - libbrotlicommon=1.2.0
+  - libbrotlidec=1.2.0
+  - libbrotlienc=1.2.0
+  - libcblas=3.11.0
+  - libcurl=8.23.0
+  - libdeflate=1.26
+  - libedit=3.1.20260512
+  - libev=4.33
+  - libexpat=2.8.5
+  - libffi=3.7.0
+  - libgcc=16.2.0
+  - libgcc-ng=16.2.0
+  - libgettextpo=0.25.1
+  - libgfortran=16.2.0
+  - libgfortran-ng=16.2.0
+  - libgfortran5=16.2.0
+  - libgomp=16.2.0
+  - libiconv=1.18
+  - libidn2=2.3.8
+  - liblapack=3.11.0
+  - liblzma=5.8.3
+  - libnghttp2=1.68.1
+  - libnsl=2.0.1
+  - libopenblas=0.3.34
+  - libpsl=0.23.1
+  - libpython=3.12.15
+  - libsqlite=3.54.0
+  - libssh2=1.11.1
+  - libstdcxx=16.2.0
+  - libstdcxx-ng=16.2.0
+  - libunistring=0.9.10
+  - libuuid=2.42.4
+  - libxcrypt=4.4.38
+  - libxml2=2.15.4
+  - libxml2-16=2.15.4
+  - libzlib=1.3.2
+  - mafft=7.526
+  - markdown-it-py=4.2.0
+  - mcl=22.282
+  - mdurl=0.1.2
+  - mmseqs2=18.8cc5c
+  - more-itertools=11.2.1
+  - mpfr=4.2.2
+  - mpi=1.0
+  - muscle=5.3
+  - narwhals=2.27.1
+  - ncbi-vdb=3.4.1
+  - ncurses=6.6
+  - numpy=2.5.4
+  - openmpi=4.1.6
+  - openssl=3.6.5
+  - orthofinder=3.1.5
+  - packaging=26.3
+  - pcre2=10.47
+  - perl=5.32.1
+  - perl-archive-tar=3.14
+  - perl-carp=1.50
+  - perl-common-sense=3.75
+  - perl-compress-raw-bzip2=2.214
+  - perl-compress-raw-zlib=2.214
+  - perl-encode=3.24
+  - perl-exporter=5.74
+  - perl-exporter-tiny=1.002002
+  - perl-extutils-makemaker=7.70
+  - perl-io-compress=2.216
+  - perl-io-zlib=1.15
+  - perl-json=4.11
+  - perl-json-xs=4.04
+  - perl-list-moreutils=0.430
+  - perl-list-moreutils-xs=0.430
+  - perl-parent=0.243
+  - perl-pathtools=3.75
+  - perl-scalar-list-utils=1.70
+  - perl-storable=3.15
+  - perl-types-serialiser=1.01
+  - pip=26.2.1
+  - pygments=2.21.0
+  - pysocks=1.7.1
+  - python=3.12.15
+  - python-gil=3.12.15
+  - python_abi=3.12
+  - raxml=8.2.13
+  - raxml-ng=2.0.3
+  - readline=8.3
+  - requests=2.34.2
+  - rich=15.0.0
+  - scikit-learn=1.9.1
+  - scipy=1.18.1
+  - setuptools=84.0.0
+  - six=1.17.0
+  - threadpoolctl=3.7.0
+  - tk=8.6.13
+  - typing_extensions=4.16.0
+  - tzdata=2026c
+  - urllib3=2.8.0
+  - wget=1.25.0
+  - wheel=0.48.0
+  - zlib=1.3.2
+  - zstd=1.5.7
+  - pip:
+      - contourpy==1.4.0
+      - cycler==0.12.1
+      - fonttools==4.67.0
+      - formulaic==1.2.2
+      - interface-meta==2.0.1
+      - kiwisolver==1.5.1
+      - matplotlib==3.11.2
+      - pandas==3.0.6
+      - patsy==1.0.3
+      - pillow==13.0.0
+      - pyparsing==3.3.3
+      - python-dateutil==2.9.0.post0
+      - statsmodels==0.15.0
+      - wrapt==2.5.1
+prefix: /home/vishwajitkumar/miniforge3/envs/orthology_env
+
+=== Key executable locations ===
+
+--- orthofinder ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/orthofinder
+
+--- diamond ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/diamond
+
+--- mafft ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/mafft
+
+--- fasttree ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/fasttree
+
+--- FastTree ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/FastTree
+
+--- blastp ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/blastp
+
+--- makeblastdb ---
+/home/vishwajitkumar/miniforge3/envs/orthology_env/bin/makeblastdb
+
+=== OrthoFinder ===
+[38;5;136;49mOrthoFinder[0m[39;49m:v[0m[38;5;38;49m3.[0m[1;38;5;38;49m1.5[0m
+
+
+=== DIAMOND ===
+diamond version 2.2.8
+
+=== MAFFT ===
+v7.526 (2024/Apr/26)
+
+=== FastTree ===
+Usage for FastTree version 2.2.0 Double precision:
+  FastTree protein_alignment > tree
+  FastTree < protein_alignment > tree
+  FastTree -out tree protein_alignment
+  FastTree -nt nucleotide_alignment > tree
+
+=== BLASTP ===
+blastp: 2.17.0+
+ Package: blast 2.17.0, build Aug 22 2026 11:52:50
+
+=== Makeblastdb ===
+makeblastdb: 2.17.0+
+ Package: blast 2.17.0, build Aug 22 2026 11:52:50

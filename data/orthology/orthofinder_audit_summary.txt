@@ -1,0 +1,15 @@
+Species: CT_ATCC27405, NOVO, RSP, TSA_JW_SL_YS485, ZM4, ZM_NCIMB11163
+Orthogroups in table: 3162
+Genes represented in orthogroup table: 13713
+Groups with all species present: 523
+Complete single-copy groups (computed from table): 348
+Groups in OrthoFinder single-copy list: 348
+Groups flagged by broad annotation keywords: 106
+
+Orthogroups by number of species represented:
+1/6 species: 436
+2/6 species: 1209
+3/6 species: 426
+4/6 species: 383
+5/6 species: 185
+6/6 species: 523

@@ -1,0 +1,16 @@
+strain_a	strain_b	proteins_a_with_hits	proteins_b_with_hits	reciprocal_best_hit_pairs	rbh_file
+ZM4	NOVO	1265	1722	1111	14_expanded_study/orthology/pairwise_rbh/ZM4__NOVO__RBH.tsv
+ZM4	RSP	1176	1679	1019	14_expanded_study/orthology/pairwise_rbh/ZM4__RSP__RBH.tsv
+ZM4	ZM_NCIMB11163	1693	1703	1661	14_expanded_study/orthology/pairwise_rbh/ZM4__ZM_NCIMB11163__RBH.tsv
+ZM4	TSA_JW_SL_YS485	823	988	638	14_expanded_study/orthology/pairwise_rbh/ZM4__TSA_JW_SL_YS485__RBH.tsv
+ZM4	CT_ATCC27405	832	1043	654	14_expanded_study/orthology/pairwise_rbh/ZM4__CT_ATCC27405__RBH.tsv
+NOVO	RSP	2187	2167	1425	14_expanded_study/orthology/pairwise_rbh/NOVO__RSP__RBH.tsv
+NOVO	ZM_NCIMB11163	1772	1313	1139	14_expanded_study/orthology/pairwise_rbh/NOVO__ZM_NCIMB11163__RBH.tsv
+NOVO	TSA_JW_SL_YS485	1269	1122	737	14_expanded_study/orthology/pairwise_rbh/NOVO__TSA_JW_SL_YS485__RBH.tsv
+NOVO	CT_ATCC27405	1277	1123	713	14_expanded_study/orthology/pairwise_rbh/NOVO__CT_ATCC27405__RBH.tsv
+RSP	ZM_NCIMB11163	1691	1191	1026	14_expanded_study/orthology/pairwise_rbh/RSP__ZM_NCIMB11163__RBH.tsv
+RSP	TSA_JW_SL_YS485	1628	1263	844	14_expanded_study/orthology/pairwise_rbh/RSP__TSA_JW_SL_YS485__RBH.tsv
+RSP	CT_ATCC27405	1661	1271	835	14_expanded_study/orthology/pairwise_rbh/RSP__CT_ATCC27405__RBH.tsv
+ZM_NCIMB11163	TSA_JW_SL_YS485	845	1012	654	14_expanded_study/orthology/pairwise_rbh/ZM_NCIMB11163__TSA_JW_SL_YS485__RBH.tsv
+ZM_NCIMB11163	CT_ATCC27405	848	1059	661	14_expanded_study/orthology/pairwise_rbh/ZM_NCIMB11163__CT_ATCC27405__RBH.tsv
+TSA_JW_SL_YS485	CT_ATCC27405	1754	1862	1302	14_expanded_study/orthology/pairwise_rbh/TSA_JW_SL_YS485__CT_ATCC27405__RBH.tsv

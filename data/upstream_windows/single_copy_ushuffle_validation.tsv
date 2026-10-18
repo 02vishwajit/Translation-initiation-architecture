@@ -1,0 +1,7 @@
+species	sequences_tested_per_replicate	replicates	invalid_shuffles	dinucleotide_preservation	first_and_last_base_preservation
+CT_ATCC27405	348	1000	0	PASS	PASS
+NOVO	348	1000	0	PASS	PASS
+RSP	348	1000	0	PASS	PASS
+TSA_JW_SL_YS485	348	1000	0	PASS	PASS
+ZM4	348	1000	0	PASS	PASS
+ZM_NCIMB11163	348	1000	0	PASS	PASS

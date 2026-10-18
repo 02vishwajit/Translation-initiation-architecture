@@ -1,0 +1,7 @@
+organism	strain	accession_version	sequence_source	annotation_version	notes
+Zymomonas mobilis	ZM4	GCF_000007105.1	NCBI RefSeq	GCF_000007105.1-RS_2025_04_01	Local GBFF metadata; replicon NC_006526.2
+Zymomonas mobilis	NCIMB 11163	GCF_000024245.1	NCBI RefSeq	GCF_000024245.1-RS_2026_07_04	Local GBFF metadata; replicons NC_013355.1, NC_013356.1, NC_013357.1, NC_013358.1
+Novosphingobium aromaticivorans	DSM 12444	GCF_000013325.1	NCBI RefSeq	GCF_000013325.1-RS_2024_12_09	Local GBFF metadata; replicons NC_007794.1, NC_009426.1, NC_009427.1
+Cereibacter sphaeroides	2.4.1	GCF_000012905.2	NCBI RefSeq	GCF_000012905.2-RS_2025_12_02	Local GBFF records verified: NC_007493.2, NC_007494.2, NC_009007.1, NC_007488.2, NC_007489.1, NC_007490.2, NC_009008.1
+Thermoanaerobacterium saccharolyticum	JW/SL-YS485	GCF_000307585.2	NCBI RefSeq	GCF_000307585.2-RS_2026_06_10	Local GBFF metadata; replicons NC_017992.1 and NC_017998.1
+Acetivibrio thermocellus	ATCC 27405	GCF_000015865.1	NCBI RefSeq	GCF_000015865.1-RS_2026_08_23	Local GBFF metadata; chromosome NC_009012.1; formerly Clostridium thermocellum
